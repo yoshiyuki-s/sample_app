@@ -1,0 +1,1 @@
+/Users/ysaigusa/workspace/ruby_tutorial/rails_project/sample_app/vendor/bundle/ruby/2.0.0/gems/ffi-1.9.8/ext/ffi_c/libffi/src/x86/ffitarget.h
